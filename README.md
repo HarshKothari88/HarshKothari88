@@ -1,13 +1,30 @@
 <h1 align="center">Hi 👋, I'm Harsh Kothari</h1>
-<h3 align="center">✨ Crafting digital masterpieces while sipping coffee and dreaming in RGB! ✨ 🎨 Full-Stack Developer | 📱 App Developer | 🎯 Product Manager | 🎨 UI/UX Designer ✨ Crafting digital masterpieces while sipping coffee and dreaming in RGB! ✨ 🌌 I'm the mad scientist of the tech universe, weaving together front-end enchantments, back-end sorcery, and user-centric alchemy to conjure awe-inspiring digital experiences. 💡 With the heart of an innovator and the mind of a problem-solver, I design and develop cutting-edge applications that make users go, "Wow, how did they even do that?" 🌈 My superpowers include transforming chaotic wireframes into pixel-perfect dreams, creating intuitive interfaces that dance with the user's fingertips, and orchestrating harmonious back-end symphonies that sing in perfect code harmony. 🔮 As a product manager, I'm the conductor of the product orchestra, harmonizing user needs, business goals, and technical wizardry into a delightful symphony of success. 🚀 When I'm not tinkering with code or sketching UI concepts on cocktail napkins, you can find me hunting for hidden gems in the GitHub repository jungle, exploring the vast landscapes of open-source brilliance. 🌟 Join me on this magical journey as we transform digital landscapes, one line of code at a time. Let's build extraordinary products that leave a lasting impact and make the world a more delightful place! 📬 Feel free to drop me a message if you're up for a collaboration, have a mind-boggling challenge, or simply want to discuss the wonders of technology over a virtual cup of tea. Let's create something remarkable together! 🌈✨</h3>
+
+🎨 Full-Stack Developer | 📱 App Developer | 🎯 Product Manager | 🎨 UI/UX Designer
+
+✨ Crafting digital masterpieces while sipping coffee and dreaming in RGB! ✨
+
+🌌 I'm the mad scientist of the tech universe, weaving together front-end enchantments, back-end sorcery, and user-centric alchemy to conjure awe-inspiring digital experiences.
+
+💡 With the heart of an innovator and the mind of a problem-solver, I design and develop cutting-edge applications that make users go, "Wow, how did they even do that?"
+
+🌈 My superpowers include transforming chaotic wireframes into pixel-perfect dreams, creating intuitive interfaces that dance with the user's fingertips, and orchestrating harmonious back-end symphonies that sing in perfect code harmony.
+
+🔮 As a product manager, I'm the conductor of the product orchestra, harmonizing user needs, business goals, and technical wizardry into a delightful symphony of success.
+
+🚀 When I'm not tinkering with code or sketching UI concepts on cocktail napkins, you can find me hunting for hidden gems in the GitHub repository jungle, exploring the vast landscapes of open-source brilliance.
+
+🌟 Join me on this magical journey as we transform digital landscapes, one line of code at a time. Let's build extraordinary products that leave a lasting impact and make the world a more delightful place!
+
+📬 Feel free to drop me a message if you're up for a collaboration, have a mind-boggling challenge, or simply want to discuss the wonders of technology over a virtual cup of tea. Let's create something remarkable together! 🌈✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkothari88&label=Profile%20views&color=0e75b6&style=flat" alt="harshkothari88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkothari88" alt="harshkothari88" /></a> </p>
 
-- 🔭 I’m currently working on **Salzaa**
+- 🔭 I’m currently working on **Salzaa App, Aaruush app**
 
-- 🌱 I’m currently learning **AWS, Azure**
+- 🌱 I’m currently learning **Azure**
 
 - 👨‍💻 Portfolio [https://harshkothari.me](https://harshkothari.me)
 
